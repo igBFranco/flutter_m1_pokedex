@@ -1,16 +1,11 @@
 # unc_flutter_pokedex
 
-A new Flutter project.
+## Sobre
+Projeto desenvolvido na Disciplina de Desenolvimento de Aplicações Móveis - Engenharia de Software(UnC)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como rodar o projeto
+- Instalar o SDK do [Flutter](https://docs.flutter.dev/get-started/install);
+- Clonar o Projeto;
+- Rodar o Comando: `flutter pub get` para instalar os pacotes;
+- Selecionar um Emulador ou Dispositivo;
+- Rodar o Comando: `flutter run` para executar o App;
